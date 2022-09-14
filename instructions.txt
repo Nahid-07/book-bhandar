@@ -1,0 +1,12 @@
+
+1.cart must have some image
+
+2. you have to add text as description
+
+3. text cannot go outside of the cart
+
+4. wishlist has added cart which is not rigth . you have to remove and fixed this problem
+
+6. To switch one page to another cart numberd increase auto. you have to fixed it.
+7. add to cart does not work. fixed it.
+
